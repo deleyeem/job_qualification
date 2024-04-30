@@ -47,8 +47,8 @@ Step 6: Visual Representation - Box Plot
 I created a Box Plot chart to visually represent the distribution and comparison of both weighted and raw scores.
 
 ## Conclusion
-The best visualization to use is the radar chart
-![Alt Text](url)
+I will use the radar chart for a cover letter and include the average weights score for all criteria to show my overall qualification.
+![Figure 1: Qualfication Radar Chart](fig_1_radar_chart.png)
 
 
 ## Next Interation
